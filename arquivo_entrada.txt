@@ -1,0 +1,599 @@
+M01 - INTRODUÇÃO À ELETRÔNICA
+#F001 01 Nox Club - Conceitos Básicos de Eletrônica__M01ELETRONICA.mp4
+#F002 02 Nox Club - Componentes Eletrônicos Fundamentais__M01ELETRONICA.mp4
+#F003 03 Nox Club - Circuitos Elétricos e Suas Aplicações__M01ELETRONICA.mp4
+#F004 04 Nox Club - Introdução às Ferramentas de Trabalho__M01ELETRONICA.mp4
+
+M02 - LEITURA DE ESQUEMAS ELÉTRICOS
+#F005 01 Nox Club - Interpretação de Esquemas Elétricos__M02ESQUEMAS.mp4
+#F006 02 Nox Club - Símbolos e Convenções em Esquemas__M02ESQUEMAS.mp4
+#F007 03 Nox Club - Análise de Circuitos em Esquemas__M02ESQUEMAS.mp4
+#F008 04 Nox Club - Prática de Leitura de Esquemas__M02ESQUEMAS.mp4
+
+M03 - SOLDAGEM E DESSOLDAGEM
+#F009 01 Nox Club - Técnicas de Soldagem__M03SOLDAGEM.mp4
+#F010 02 Nox Club - Equipamentos e Materiais Necessários__M03SOLDAGEM.mp4
+#F011 03 Nox Club - Procedimentos de Dessoldagem__M03SOLDAGEM.mp4
+#F012 04 Nox Club - Prática de Soldagem e Dessoldagem__M03SOLDAGEM.mp4
+
+M04 - TESTE E MEDIÇÃO DE COMPONENTES
+#F013 01 Nox Club - Multímetros e Suas Funcionalidades__M04TESTE.mp4
+#F014 02 Nox Club - Teste de Resistores e Capacitores__M04TESTE.mp4
+#F015 03 Nox Club - Medição de Tensão e Corrente__M04TESTE.mp4
+#F016 04 Nox Club - Utilização de Osciloscópios em Testes__M04TESTE.mp4
+
+M05 - IDENTIFICAÇÃO DE FALHAS EM CIRCUITOS
+#F017 01 Nox Club - Tipos de Falhas Mais Comuns__M05FALHAS.mp4
+#F018 02 Nox Club - Métodos de Diagnóstico de Problemas__M05FALHAS.mp4
+#F019 03 Nox Club - Estratégias para Localização de Falhas__M05FALHAS.mp4
+#F020 04 Nox Club - Exemplos Práticos de Identificação de Falhas__M05FALHAS.mp4
+
+M06 - CIRCUITOS INTEGRADOS
+#F021 01 Nox Club - Introdução aos Circuitos Integrados__M06INTEGRADOS.mp4
+#F022 02 Nox Club - Tipos e Funcionalidades de CI's__M06INTEGRADOS.mp4
+#F023 03 Nox Club - Teste e Substituição de Circuitos Integrados__M06INTEGRADOS.mp4
+#F024 04 Nox Club - Aplicações Práticas de Circuitos Integrados__M06INTEGRADOS.mp4
+
+M07 - FONTE DE ALIMENTAÇÃO
+#F025 01 Nox Club - Princípios de Funcionamento de Fontes__M07FONTES.mp4
+#F026 02 Nox Club - Tipos de Fontes de Alimentação__M07FONTES.mp4
+#F027 03 Nox Club - Manutenção e Reparo em Fontes__M07FONTES.mp4
+#F028 04 Nox Club - Segurança e Precauções em Fontes de Alimentação__M07FONTES.mp4
+
+M08 - AMPLIFICADORES E CIRCUITOS DE ÁUDIO
+#F029 01 Nox Club - Amplificadores: Conceitos Básicos__M08AMPLIFICADORES.mp4
+#F030 02 Nox Club - Tipos de Amplificadores e Suas Aplicações__M08AMPLIFICADORES.mp4
+#F031 03 Nox Club - Circuitos de Áudio: Montagem e Testes__M08AMPLIFICADORES.mp4
+#F032 04 Nox Club - Ajustes e Configurações em Circuitos de Áudio__M08AMPLIFICADORES.mp4
+
+M09 - MICROCONTROLADORES E ARDUINO
+#F033 01 Nox Club - Introdução aos Microcontroladores__M09MICROCONTROLADORES.mp4
+#F034 02 Nox Club - Programação Básica em Arduino__M09MICROCONTROLADORES.mp4
+#F035 03 Nox Club - Projetos Práticos com Arduino__M09MICROCONTROLADORES.mp4
+#F036 04 Nox Club - Interfaces e Sensores em Projetos de Arduino__M09MICROCONTROLADORES.mp4
+
+M10 - CIRCUITOS DIGITAIS
+#F037 01 Nox Club - Lógica Digital: Conceitos Fundamentais__M10DIGITAIS.mp4
+#F038 02 Nox Club - Portas Lógicas e Suas Aplicações__M10DIGITAIS.mp4
+#F039 03 Nox Club - Circuitos Combinacionais__M10DIGITAIS.mp4
+#F040 04 Nox Club - Circuitos Sequenciais e Memórias__M10DIGITAIS.mp4
+
+M11 - COMUNICAÇÃO DE DADOS E REDES
+#F041 01 Nox Club - Protocolos de Comunicação__M11COMUNICACAO.mp4
+#F042 02 Nox Club - Redes de Computadores: Conceitos Básicos__M11COMUNICACAO.mp4
+#F043 03 Nox Club - Configuração e Teste de Redes Locais__M11COMUNICACAO.mp4
+#F044 04 Nox Club - Segurança em Redes e Dados__M11COMUNICACAO.mp4
+
+M12 - PROJETOS ELETRÔNICOS
+#F045 01 Nox Club - Metodologia de Desenvolvimento de Projetos__M12PROJETOS.mp4
+#F046 02 Nox Club - Seleção de Componentes para Projetos__M12PROJETOS.mp4
+#F047 03 Nox Club - Montagem e Testes de Protótipos__M12PROJETOS.mp4
+#F048 04 Nox Club - Documentação e Aprimoramento de Projetos__M12PROJETOS.mp4
+
+M13 - ROBÓTICA E AUTOMAÇÃO
+#F049 01 Nox Club - Introdução à Robótica__M13ROBOTICA.mp4
+#F050 02 Nox Club - Sensores e Atuadores em Robótica__M13ROBOTICA.mp4
+#F051 03 Nox Club - Controle e Programação de Robôs__M13ROBOTICA.mp4
+#F052 04 Nox Club - Aplicações Práticas de Automação__M13ROBOTICA.mp4
+
+M14 - SISTEMAS EMBARCADOS
+#F053 01 Nox Club - Conceitos de Sistemas Embarcados__M14EMBARCADOS.mp4
+#F054 02 Nox Club - Arquiteturas de Sistemas Embarcados__M14EMBARCADOS.mp4
+#F055 03 Nox Club - Desenvolvimento de Firmware__M14EMBARCADOS.mp4
+#F056 04 Nox Club - Integração e Testes de Sistemas Embarcados__M14EMBARCADOS.mp4
+
+M15 - MANUTENÇÃO PREVENTIVA E CORRETIVA
+#F057 01 Nox Club - Importância da Manutenção Preventiva__M15MANUTENCAO.mp4
+#F058 02 Nox Club - Procedimentos de Limpeza e Conservação__M15MANUTENCAO.mp4
+#F059 03 Nox Club - Diagnóstico de Problemas Recorrentes__M15MANUTENCAO.mp4
+#F060 04 Nox Club - Reparo e Substituição de Componentes__M15MANUTENCAO.mp4
+
+M16 - TÉCNICAS AVANÇADAS DE SOLDAGEM
+#F061 01 Nox Club - Soldagem SMD: Técnicas e Ferramentas__M16SOLDAGEMAVANCADA.mp4
+#F062 02 Nox Club - Reballing de Componentes Eletrônicos__M16SOLDAGEMAVANCADA.mp4
+#F063 03 Nox Club - BGA Rework: Procedimentos Avançados__M16SOLDAGEMAVANCADA.mp4
+#F064 04 Nox Club - Soldagem em Atmosfera Controlada__M16SOLDAGEMAVANCADA.mp4
+
+M17 - PROTOCOLOS DE COMUNICAÇÃO EM ELETRÔNICA
+#F065 01 Nox Club - Protocolo SPI: Funcionamento e Aplicações__M17PROTOCOLOS.mp4
+#F066 02 Nox Club - I2C: Interface e Protocolo de Comunicação__M17PROTOCOLOS.mp4
+#F067 03 Nox Club - UART: Comunicação Serial Universal__M17PROTOCOLOS.mp4
+#F068 04 Nox Club - CAN Bus: Protocolo de Rede para Sistemas Embarcados__M17PROTOCOLOS.mp4
+
+M18 - MICROCONTROLADORES AVR E PIC
+#F069 01 Nox Club - Família AVR: Características e Aplicações__M18AVR_PIC.mp4
+#F070 02 Nox Club - Programação em Linguagem Assembly__M18AVR_PIC.mp4
+#F071 03 Nox Club - Desenvolvimento de Projetos com Microcontroladores AVR__M18AVR_PIC.mp4
+#F072 04 Nox Club - Introdução aos Microcontroladores PIC__M18AVR_PIC.mp4
+
+M19 - INTERFACES DE COMUNICAÇÃO SERIAL
+#F073 01 Nox Club - RS-232: Interface Serial Padrão__M19COMUNICACAOSERIAL.mp4
+#F074 02 Nox Club - RS-485: Protocolo de Comunicação Serial__M19COMUNICACAOSERIAL.mp4
+#F075 03 Nox Club - TTL Serial: Níveis Lógicos e Aplicações__M19COMUNICACAOSERIAL.mp4
+#F076 04 Nox Club - USB: Padrão de Conexão Universal__M19COMUNICACAOSERIAL.mp4
+
+M20 - FONTES CHAVEADAS
+#F077 01 Nox Club - Princípios de Funcionamento de Fontes Chaveadas__M20FONTESCHAVEADAS.mp4
+#F078 02 Nox Club - Topologias e Circuitos em Fontes Chaveadas__M20FONTESCHAVEADAS.mp4
+#F079 03 Nox Club - Controle e Regulação de Tensão em Fontes__M20FONTESCHAVEADAS.mp4
+#F080 04 Nox Club - Segurança e Manutenção em Fontes Chaveadas__M20FONTESCHAVEADAS.mp4
+
+M21 - INSTRUMENTAÇÃO E MEDIDAS ELÉTRICAS
+#F081 01 Nox Club - Instrumentos de Medição: Tipos e Características__M21MEDIDASELETRICAS.mp4
+#F082 02 Nox Club - Medição de Grandezas Elétricas Básicas__M21MEDIDASELETRICAS.mp4
+#F083 03 Nox Club - Análise e Interpretação de Dados de Medição__M21MEDIDASELETRICAS.mp4
+#F084 04 Nox Club - Calibração e Certificação de Instrumentos de Medição__M21MEDIDASELETRICAS.mp4
+
+M22 - FUNDAMENTOS DE RF E COMUNICAÇÕES
+#F085 01 Nox Club - Ondas e Propagação de RF__M22RF_COMUNICACOES.mp4
+#F086 02 Nox Club - Antenas: Tipos e Princípios de Funcionamento__M22RF_COMUNICACOES.mp4
+#F087 03 Nox Club - Modulação e Demodulação de Sinais RF__M22RF_COMUNICACOES.mp4
+#F088 04 Nox Club - Sistemas de Comunicação Sem Fio__M22RF_COMUNICACOES.mp4
+
+M23 - ARDUINO AVANÇADO E PROGRAMAÇÃO EMBARCADA
+#F089 01 Nox Club - Programação Avançada em Arduino__M23ARDUINOAVANCADO.mp4
+#F090 02 Nox Club - Desenvolvimento de Projetos Complexos__M23ARDUINOAVANCADO.mp4
+#F091 03 Nox Club - Integração com Outros Dispositivos e Plataformas__M23ARDUINOAVANCADO.mp4
+#F092 04 Nox Club - Programação de Sistemas Embarcados em C/C++__M23ARDUINOAVANCADO.mp4
+
+M24 - SEGURANÇA E NORMAS EM ELETRÔNICA
+#F093 01 Nox Club - Normas de Segurança em Eletrônica__M24SEGURANCAELETRONICA.mp4
+#F094 02 Nox Club - Prevenção de Acidentes e Riscos Elétricos__M24SEGURANCAELETRONICA.mp4
+#F095 03 Nox Club - Procedimentos em Casos de Emergência__M24SEGURANCAELETRONICA.mp4
+#F096 04 Nox Club - Conformidade com Padrões e Regulamentos__M24SEGURANCAELETRONICA.mp4
+
+M25 - REDES NEURAIS E INTELIGÊNCIA ARTIFICIAL EM ELETRÔNICA
+#F097 01 Nox Club - Introdução às Redes Neurais__M25REDESNEURAIS.mp4
+#F098 02 Nox Club - Aplicações de Redes Neurais em Eletrônica__M25REDESNEURAIS.mp4
+#F099 03 Nox Club - Algoritmos de Aprendizado de Máquina__M25REDESNEURAIS.mp4
+#F100 04 Nox Club - Desenvolvimento de Projetos com IA em Eletrônica__M25REDESNEURAIS.mp4
+
+M26 - CIRCUITOS ANALÓGICOS E LINEARES
+#F101 01 Nox Club - Amplificadores Operacionais: Teoria e Aplicações__M26CIRCUITOSANALOGICOS.mp4
+#F102 02 Nox Club - Filtros Ativos e Passivos__M26CIRCUITOSANALOGICOS.mp4
+#F103 03 Nox Club - Reguladores de Tensão Lineares__M26CIRCUITOSANALOGICOS.mp4
+#F104 04 Nox Club - Osciladores e Geradores de Sinais__M26CIRCUITOSANALOGICOS.mp4
+
+M27 - ELETRÔNICA DE POTÊNCIA
+#F105 01 Nox Club - Conversores CC-CC: Tipos e Funcionamento__M27ELETRONICAPOTENCIA.mp4
+#F106 02 Nox Club - Inversores de Tensão: Aplicações e Circuitos__M27ELETRONICAPOTENCIA.mp4
+#F107 03 Nox Club - Retificadores e Fontes de Alimentação Chaveadas__M27ELETRONICAPOTENCIA.mp4
+#F108 04 Nox Club - Controle e Estabilidade em Sistemas de Potência__M27ELETRONICAPOTENCIA.mp4
+
+M28 - TECNOLOGIAS E TENDÊNCIAS EM ELETRÔNICA
+#F109 01 Nox Club - IoT: Internet das Coisas__M28TECNOLOGIAS.mp4
+#F110 02 Nox Club - Wearables: Tecnologia Vestível__M28TECNOLOGIAS.mp4
+#F111 03 Nox Club - Nanotecnologia em Eletrônica__M28TECNOLOGIAS.mp4
+#F112 04 Nox Club - Impressão 3D e Prototipagem Rápida__M28TECNOLOGIAS.mp4
+
+M29 - DESENVOLVIMENTO DE APLICATIVOS PARA ELETRÔNICA
+#F113 01 Nox Club - Plataformas de Desenvolvimento de Apps__M29DESENVOLVIMENTOAPPS.mp4
+#F114 02 Nox Club - Linguagens de Programação para Apps__M29DESENVOLVIMENTOAPPS.mp4
+#F115 03 Nox Club - Integração com Dispositivos Eletrônicos__M29DESENVOLVIMENTOAPPS.mp4
+#F116 04 Nox Club - Testes e Depuração de Aplicativos__M29DESENVOLVIMENTOAPPS.mp4
+
+M30 - ELETRÔNICA VERDE E SUSTENTABILIDADE
+#F117 01 Nox Club - Práticas Sustentáveis em Eletrônica__M30ELETRONICASUSTENTAVEL.mp4
+#F118 02 Nox Club - Reciclagem de Componentes e Materiais__M30ELETRONICASUSTENTAVEL.mp4
+#F119 03 Nox Club - Energias Renováveis e Eletrônica__M30ELETRONICASUSTENTAVEL.mp4
+#F120 04 Nox Club - Tecnologias Verdes e Redução de Impacto Ambiental__M30ELETRONICASUSTENTAVEL.mp4
+
+M31 - DESIGN DE CIRCUITOS IMPRESSOS
+#F121 01 Nox Club - Softwares de Design de PCB__M31DESIGNPCB.mp4
+#F122 02 Nox Club - Layout e Roteamento de Trilhas__M31DESIGNPCB.mp4
+#F123 03 Nox Club - Considerações de Projeto e Viabilidade__M31DESIGNPCB.mp4
+#F124 04 Nox Club - Prototipagem e Manufatura de PCBs__M31DESIGNPCB.mp4
+
+M32 - ELETRÔNICA QUÂNTICA E FUTURO DA COMPUTAÇÃO
+#F125 01 Nox Club - Princípios da Eletrônica Quântica__M32ELETRONICAQUANTICA.mp4
+#F126 02 Nox Club - Computação Quântica: Conceitos e Desafios__M32ELETRONICAQUANTICA.mp4
+#F127 03 Nox Club - Aplicações Emergentes em Computação__M32ELETRONICAQUANTICA.mp4
+#F128 04 Nox Club - Perspectivas Futuras e Tendências Tecnológicas__M32ELETRONICAQUANTICA.mp4
+
+M33 - ROBÓTICA AVANÇADA E INTELIGÊNCIA ARTIFICIAL
+#F129 01 Nox Club - Robótica Autônoma: Desafios e Soluções__M33ROBOTICAIA.mp4
+#F130 02 Nox Club - Aprendizado de Máquina em Robótica__M33ROBOTICAIA.mp4
+#F131 03 Nox Club - Visão Computacional e Reconhecimento de Padrões__M33ROBOTICAIA.mp4
+#F132 04 Nox Club - Aplicações Práticas de IA em Robótica__M33ROBOTICAIA.mp4
+
+M34 - ELETRÔNICA ESPACIAL E SISTEMAS DE TELECOMUNICAÇÃO
+#F133 01 Nox Club - Sistemas Embarcados em Satélites__M34ELETRONICAESPACIAL.mp4
+#F134 02 Nox Club - Comunicação por Satélite: Tecnologias e Protocolos__M34ELETRONICAESPACIAL.mp4
+#F135 03 Nox Club - Exploração Espacial e Eletrônica__M34ELETRONICAESPACIAL.mp4
+#F136 04 Nox Club - Redes de Telecomunicações em Órbita e Terrestres__M34ELETRONICAESPACIAL.mp4
+
+M35 - ELETRÔNICA VEICULAR E AUTOMOTIVA
+#F137 01 Nox Club - Sistemas Elétricos e Eletrônicos em Veículos__M35ELETRONICAVEICULAR.mp4
+#F138 02 Nox Club - Injeção Eletrônica e Controle de Motores__M35ELETRONICAVEICULAR.mp4
+#F139 03 Nox Club - Sistemas de Segurança e Conforto__M35ELETRONICAVEICULAR.mp4
+#F140 04 Nox Club - Tendências e Inovações em Eletrônica Automotiva__M35ELETRONICAVEICULAR.mp4
+
+M36 - ELETRÔNICA BIOMÉDICA E SAÚDE DIGITAL
+#F141 01 Nox Club - Dispositivos Médicos Eletrônicos__M36ELETRONICABIOMEDICA.mp4
+#F142 02 Nox Club - Monitoramento de Sinais Vitais__M36ELETRONICABIOMEDICA.mp4
+#F143 03 Nox Club - Telemedicina e Saúde Digital__M36ELETRONICABIOMEDICA.mp4
+#F144 04 Nox Club - Inovações em Tecnologias para Saúde__M36ELETRONICABIOMEDICA.mp4
+
+M37 - ELETRÔNICA NA INDÚSTRIA E AUTOMAÇÃO INDUSTRIAL
+#F145 01 Nox Club - Automação de Processos Industriais__M37AUTOMACAOINDUSTRIAL.mp4
+#F146 02 Nox Club - Controle de Máquinas e Equipamentos__M37AUTOMACAOINDUSTRIAL.mp4
+#F147 03 Nox Club - Sistemas de Monitoramento e Controle de Produção__M37AUTOMACAOINDUSTRIAL.mp4
+#F148 04 Nox Club - Eficiência Energética e Otimização de Processos__M37AUTOMACAOINDUSTRIAL.mp4
+
+M38 - ELETRÔNICA NA AGRICULTURA E AGROTECNOLOGIA
+#F149 01 Nox Club - Sensores e Sistemas de Monitoramento Agrícola__M38AGRICULTURA.mp4
+#F150 02 Nox Club - Automação de Irrigação e Cultivo__M38AGRICULTURA.mp4
+#F151 03 Nox Club - Tecnologias para Agricultura de Precisão__M38AGRICULTURA.mp4
+#F152 04 Nox Club - Inovações em Agrotecnologia e Sustentabilidade__M38AGRICULTURA.mp4
+
+M39 - ELETRÔNICA NA ENERGIA EÓLICA E SOLAR
+#F153 01 Nox Club - Tecnologias de Captura de Energia Eólica__M39ENERGIAEOLICA.mp4
+#F154 02 Nox Club - Sistemas de Conversão e Armazenamento de Energia__M39ENERGIAEOLICA.mp4
+#F155 03 Nox Club - Energia Solar Fotovoltaica: Princípios e Aplicações__M39ENERGIAEOLICA.mp4
+#F156 04 Nox Club - Sustentabilidade e Expansão da Energia Renovável__M39ENERGIAEOLICA.mp4
+
+M40 - ELETRÔNICA NA CONSTRUÇÃO E ARQUITETURA
+#F157 01 Nox Club - Automação Residencial e Predial__M40CONSTRUCAOARQUITETURA.mp4
+#F158 02 Nox Club - Sistemas de Segurança e Controle de Acessos__M40CONSTRUCAOARQUITETURA.mp4
+#F159 03 Nox Club - Iluminação Inteligente e Eficiência Energética__M40CONSTRUCAOARQUITETURA.mp4
+#F160 04 Nox Club - Tecnologias Emergentes na Construção Civil__M40CONSTRUCAOARQUITETURA.mp4
+
+M41 - ELETRÔNICA NA EDUCAÇÃO E APRENDIZAGEM
+#F161 01 Nox Club - Tecnologias Educacionais em Eletrônica__M41EDUCACAOAPRENDIZAGEM.mp4
+#F162 02 Nox Club - Laboratórios Virtuais e Simulações__M41EDUCACAOAPRENDIZAGEM.mp4
+#F163 03 Nox Club - Ensino à Distância e Aprendizagem Online__M41EDUCACAOAPRENDIZAGEM.mp4
+#F164 04 Nox Club - Ferramentas e Recursos para Professores e Alunos__M41EDUCACAOAPRENDIZAGEM.mp4
+
+M42 - ELETRÔNICA NA ARTE E ENTRETENIMENTO
+#F165 01 Nox Club - Tecnologia e Experiência do Usuário em Arte Digital__M42ARTEENTRETENIMENTO.mp4
+#F166 02 Nox Club - Interação e Interfaces Criativas__M42ARTEENTRETENIMENTO.mp4
+#F167 03 Nox Club - Música Eletrônica e Produção Sonora__M42ARTEENTRETENIMENTO.mp4
+#F168 04 Nox Club - Realidade Virtual e Augmentada em Entretenimento__M42ARTEENTRETENIMENTO.mp4
+
+M43 - ELETRÔNICA NA EXPLORAÇÃO ESPACIAL E ASTRONÁUTICA
+#F169 01 Nox Club - Sistemas Embarcados em Missões Espaciais__M43EXPLORACAOESPACIAL.mp4
+#F170 02 Nox Club - Sensores e Instrumentação para Espaçonaves__M43EXPLORACAOESPACIAL.mp4
+#F171 03 Nox Club - Comunicação e Telemetria em Missões Espaciais__M43EXPLORACAOESPACIAL.mp4
+#F172 04 Nox Club - Desafios e Inovações na Exploração do Espaço__M43EXPLORACAOESPACIAL.mp4
+
+M44 - ELETRÔNICA NA INDÚSTRIA DE JOGOS ELETRÔNICOS
+#F173 01 Nox Club - Desenvolvimento de Hardware para Jogos__M44JOGOSELETRONICOS.mp4
+#F174 02 Nox Club - Programação de Jogos e Engines Gráficas__M44JOGOSELETRONICOS.mp4
+#F175 03 Nox Club - Interfaces de Jogos e Dispositivos de Controle__M44JOGOSELETRONICOS.mp4
+#F176 04 Nox Club - Tendências e Inovações na Indústria de Games__M44JOGOSELETRONICOS.mp4
+
+M45 - ELETRÔNICA NA MÚSICA E PRODUÇÃO SONORA
+#F177 01 Nox Club - Equipamentos e Tecnologias de Estúdio__M45MUSICAPRODUCAO.mp4
+#F178 02 Nox Club - Processamento e Efeitos de Áudio__M45MUSICAPRODUCAO.mp4
+#F179 03 Nox Club - Síntese Sonora e Design de Sons__M45MUSICAPRODUCAO.mp4
+#F180 04 Nox Club - Produção e Masterização de Música Digital__M45MUSICAPRODUCAO.mp4
+
+M46 - ELETRÔNICA NA SAÚDE E BEM-ESTAR
+#F181 01 Nox Club - Dispositivos Vestíveis e Monitoramento de Saúde__M46SAUDEBEMESTAR.mp4
+#F182 02 Nox Club - Tecnologias para Assistência Médica e Reabilitação__M46SAUDEBEMESTAR.mp4
+#F183 03 Nox Club - Acompanhamento Remoto e Telemedicina__M46SAUDEBEMESTAR.mp4
+#F184 04 Nox Club - Inovações em Bem-Estar e Qualidade de Vida__M46SAUDEBEMESTAR.mp4
+
+M47 - ELETRÔNICA NA PRESERVAÇÃO DO MEIO AMBIENTE
+#F185 01 Nox Club - Monitoramento Ambiental com Tecnologia__M47MEIOAMBIENTE.mp4
+#F186 02 Nox Club - Sensoriamento Remoto e Geoprocessamento__M47MEIOAMBIENTE.mp4
+#F187 03 Nox Club - Tecnologias Verdes e Sustentáveis__M47MEIOAMBIENTE.mp4
+#F188 04 Nox Club - Contribuições da Eletrônica para a Preservação do Ambiente__M47MEIOAMBIENTE.mp4
+
+M48 - ELETRÔNICA NA SEGURANÇA PÚBLICA E CIDADÃ
+#F189 01 Nox Club - Sistemas de Monitoramento e Vigilância__M48SEGURANCAPUBLICA.mp4
+#F190 02 Nox Club - Controle de Acesso e Segurança de Perímetro__M48SEGURANCAPUBLICA.mp4
+#F191 03 Nox Club - Tecnologias para Prevenção e Combate ao Crime__M48SEGURANCAPUBLICA.mp4
+#F192 04 Nox Club - Inovações em Segurança e Proteção Cidadã__M48SEGURANCAPUBLICA.mp4
+
+M49 - ELETRÔNICA NA GESTÃO URBANA E MOBILIDADE
+#F193 01 Nox Club - Sistemas Inteligentes de Transporte__M49MOBILIDADEURBANA.mp4
+#F194 02 Nox Club - Monitoramento e Controle de Tráfego__M49MOBILIDADEURBANA.mp4
+#F195 03 Nox Club - Tecnologias para Gestão Urbana Sustentável__M49MOBILIDADEURBANA.mp4
+#F196 04 Nox Club - Inovações em Mobilidade e Acessibilidade Urbana__M49MOBILIDADEURBANA.mp4
+
+M50 - ELETRÔNICA NA INDÚSTRIA DO ENTRETENIMENTO E EVENTOS
+#F197 01 Nox Club - Tecnologia Audiovisual e Entretenimento__M50ENTRETENIMENTOEVENTOS.mp4
+#F198 02 Nox Club - Iluminação e Efeitos Especiais__M50ENTRETENIMENTOEVENTOS.mp4
+#F199 03 Nox Club - Áudio Profissional e Sonorização de Eventos__M50ENTRETENIMENTOEVENTOS.mp4
+#F200 04 Nox Club - Inovações em Produção de Eventos e Espetáculos__M50ENTRETENIMENTOEVENTOS.mp4
+
+M51 - ELETRÔNICA NA INDÚSTRIA AEROESPACIAL
+#F201 01 Nox Club - Controle e Navegação de Aeronaves__M51INDUSTRIAAEROESPACIAL.mp4
+#F202 02 Nox Club - Sistemas de Comunicação e Telemetria__M51INDUSTRIAAEROESPACIAL.mp4
+#F203 03 Nox Club - Aviónica e Sistemas Embarcados em Aeronaves__M51INDUSTRIAAEROESPACIAL.mp4
+#F204 04 Nox Club - Inovações e Tendências na Indústria Aeroespacial__M51INDUSTRIAAEROESPACIAL.mp4
+
+M52 - ELETRÔNICA NA INDÚSTRIA DE DEFESA E SEGURANÇA
+#F205 01 Nox Club - Tecnologias de Defesa e Segurança Nacional__M52DEFESASEGURANCA.mp4
+#F206 02 Nox Club - Sistemas de Vigilância e Reconhecimento__M52DEFESASEGURANCA.mp4
+#F207 03 Nox Club - Comunicações Militares e Criptografia__M52DEFESASEGURANCA.mp4
+#F208 04 Nox Club - Inovações em Defesa e Segurança Cibernética__M52DEFESASEGURANCA.mp4
+
+M53 - ELETRÔNICA NA INDÚSTRIA FARMACÊUTICA E BIOTECNOLÓGICA
+#F209 01 Nox Club - Controle e Automação em Processos Farmacêuticos__M53FARMABIOTEC.mp4
+#F210 02 Nox Club - Monitoramento e Rastreabilidade de Medicamentos__M53FARMABIOTEC.mp4
+#F211 03 Nox Club - Biotecnologia e Engenharia Genética__M53FARMABIOTEC.mp4
+#F212 04 Nox Club - Inovações em Produção e Controle de Qualidade__M53FARMABIOTEC.mp4
+
+M54 - ELETRÔNICA NA INDÚSTRIA PETROQUÍMICA E DE ENERGIA
+#F213 01 Nox Club - Monitoramento e Controle de Processos Industriais__M54PETROQUIMICAENERGIA.mp4
+#F214 02 Nox Club - Automação de Sistemas de Produção de Energia__M54PETROQUIMICAENERGIA.mp4
+#F215 03 Nox Club - Tecnologias para Exploração e Refino de Petróleo__M54PETROQUIMICAENERGIA.mp4
+#F216 04 Nox Club - Sustentabilidade e Eficiência Energética na Indústria__M54PETROQUIMICAENERGIA.mp4
+
+M55 - ELETRÔNICA NA INDÚSTRIA ALIMENTÍCIA E DE BEBIDAS
+#F217 01 Nox Club - Controle de Processos e Automação Industrial__M55ALIMENTOSEBEBIDAS.mp4
+#F218 02 Nox Club - Monitoramento e Rastreabilidade de Alimentos__M55ALIMENTOSEBEBIDAS.mp4
+#F219 03 Nox Club - Tecnologias de Processamento e Embalagem__M55ALIMENTOSEBEBIDAS.mp4
+#F220 04 Nox Club - Inovações em Segurança Alimentar e Qualidade__M55ALIMENTOSEBEBIDAS.mp4
+
+M56 - ELETRÔNICA NA INDÚSTRIA DE RECURSOS NATURAIS E MINERAÇÃO
+#F221 01 Nox Club - Monitoramento e Controle de Processos Mineradores__M56MINERACAO.mp4
+#F222 02 Nox Club - Automação de Operações em Minas e Pedreiras__M56MINERACAO.mp4
+#F223 03 Nox Club - Tecnologias para Exploração e Beneficiamento__M56MINERACAO.mp4
+#F224 04 Nox Club - Sustentabilidade e Gestão Ambiental na Mineração__M56MINERACAO.mp4
+
+M57 - ELETRÔNICA NA INDÚSTRIA DE MANUFATURA E PRODUÇÃO
+#F225 01 Nox Club - Controle de Processos e Automação Industrial__M57MANUFATURAPRODUCAO.mp4
+#F226 02 Nox Club - Robótica e Automação em Linhas de Produção__M57MANUFATURAPRODUCAO.mp4
+#F227 03 Nox Club - Monitoramento e Otimização de Sistemas Produtivos__M57MANUFATURAPRODUCAO.mp4
+#F228 04 Nox Club - Inovações em Eficiência e Qualidade na Produção__M57MANUFATURAPRODUCAO.mp4
+
+M58 - ELETRÔNICA NA INDÚSTRIA DE TECNOLOGIA ELETRÔNICA
+#F229 01 Nox Club - Desenvolvimento e Fabricação de Componentes Eletrônicos__M58TECNOLOGIAELETRONICA.mp4
+#F230 02 Nox Club - Tecnologias de Montagem e Teste de Produtos Eletrônicos__M58TECNOLOGIAELETRONICA.mp4
+#F231 03 Nox Club - Controle de Qualidade e Padronização de Produtos__M58TECNOLOGIAELETRONICA.mp4
+#F232 04 Nox Club - Inovações e Tendências na Indústria Eletrônica__M58TECNOLOGIAELETRONICA.mp4
+
+M59 - ELETRÔNICA NA INDÚSTRIA DE TELECOMUNICAÇÕES
+#F233 01 Nox Club - Infraestrutura e Redes de Telecomunicações__M59TELECOMUNICACOES.mp4
+#F234 02 Nox Club - Tecnologias de Transmissão e Comutação de Dados__M59TELECOMUNICACOES.mp4
+#F235 03 Nox Club - Equipamentos e Dispositivos para Telecomunicações__M59TELECOMUNICACOES.mp4
+#F236 04 Nox Club - Inovações e Tendências em Telecomunicações__M59TELECOMUNICACOES.mp4
+
+M60 - ELETRÔNICA NA INDÚSTRIA DE ENERGIA ELÉTRICA E DISTRIBUIÇÃO
+#F237 01 Nox Club - Geração, Transmissão e Distribuição de Energia__M60ENERGIAELETRICA.mp4
+#F238 02 Nox Club - Controle e Proteção de Sistemas Elétricos__M60ENERGIAELETRICA.mp4
+#F239 03 Nox Club - Smart Grids e Redes Elétricas Inteligentes__M60ENERGIAELETRICA.mp4
+#F240 04 Nox Club - Eficiência e Sustentabilidade na Indústria Energética__M60ENERGIAELETRICA.mp4
+
+M61 - ELETRÔNICA NA INDÚSTRIA DE PETRÓLEO E GÁS
+#F241 01 Nox Club - Exploração, Perfuração e Produção de Petróleo__M61PETROLEOGAS.mp4
+#F242 02 Nox Club - Monitoramento e Controle de Plataformas Offshore__M61PETROLEOGAS.mp4
+#F243 03 Nox Club - Tecnologias de Refino e Processamento de Gás__M61PETROLEOGAS.mp4
+#F244 04 Nox Club - Sustentabilidade e Segurança na Indústria de O&G__M61PETROLEOGAS.mp4
+
+M62 - ELETRÔNICA NA INDÚSTRIA QUÍMICA E FARMACÊUTICA
+#F245 01 Nox Club - Automação de Processos e Controle de Produção__M62QUIMICAFARMACEUTICA.mp4
+#F246 02 Nox Club - Monitoramento e Segurança em Laboratórios__M62QUIMICAFARMACEUTICA.mp4
+#F247 03 Nox Club - Controle de Qualidade e Rastreabilidade de Produtos__M62QUIMICAFARMACEUTICA.mp4
+#F248 04 Nox Club - Inovações e Tendências na Indústria Química__M62QUIMICAFARMACEUTICA.mp4
+
+M63 - ELETRÔNICA NA INDÚSTRIA TÊXTIL E DE VESTUÁRIO
+#F249 01 Nox Club - Automação de Processos e Linhas de Produção__M63TEXTEISVESTUARIO.mp4
+#F250 02 Nox Club - Tecnologias de Tingimento e Acabamento__M63TEXTEISVESTUARIO.mp4
+#F251 03 Nox Club - Controle de Qualidade e Inspeção de Tecidos__M63TEXTEISVESTUARIO.mp4
+#F252 04 Nox Club - Inovações em Tecidos Inteligentes e Wearables__M63TEXTEISVESTUARIO.mp4
+
+M64 - ELETRÔNICA NA INDÚSTRIA DE PAPEL E CELULOSE
+#F253 01 Nox Club - Automação de Processos e Controle de Produção__M64PAPELECELULOSE.mp4
+#F254 02 Nox Club - Monitoramento e Manutenção de Máquinas e Equipamentos__M64PAPELECELULOSE.mp4
+#F255 03 Nox Club - Eficiência Energética e Sustentabilidade Ambiental__M64PAPELECELULOSE.mp4
+#F256 04 Nox Club - Inovações em Papéis Especiais e Produtos Derivados__M64PAPELECELULOSE.mp4
+
+M65 - ELETRÔNICA NA INDÚSTRIA DE CIMENTO E CONSTRUÇÃO
+#F257 01 Nox Club - Automação de Processos e Controle de Produção__M65CIMENTOCONSTRUCAO.mp4
+#F258 02 Nox Club - Monitoramento e Manutenção de Equipamentos Pesados__M65CIMENTOCONSTRUCAO.mp4
+#F259 03 Nox Club - Eficiência Energética e Redução de Emissões__M65CIMENTOCONSTRUCAO.mp4
+#F260 04 Nox Club - Inovações em Materiais e Construções Sustentáveis__M65CIMENTOCONSTRUCAO.mp4
+
+M66 - ELETRÔNICA NA INDÚSTRIA DE MADEIRA E MOBILIÁRIO
+#F261 01 Nox Club - Automação de Processos e Controle de Produção__M66MADEIRAMOBILIARIO.mp4
+#F262 02 Nox Club - Tecnologias de Processamento e Acabamento de Madeira__M66MADEIRAMOBILIARIO.mp4
+#F263 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M66MADEIRAMOBILIARIO.mp4
+#F264 04 Nox Club - Inovações em Design e Sustentabilidade na Indústria__M66MADEIRAMOBILIARIO.mp4
+
+M67 - ELETRÔNICA NA INDÚSTRIA DE VIDRO E CERÂMICA
+#F265 01 Nox Club - Automação de Processos e Controle de Produção__M67VIDROCERAMICA.mp4
+#F266 02 Nox Club - Tecnologias de Fusão e Moldagem de Vidro__M67VIDROCERAMICA.mp4
+#F267 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M67VIDROCERAMICA.mp4
+#F268 04 Nox Club - Inovações em Materiais e Aplicações na Indústria__M67VIDROCERAMICA.mp4
+
+M68 - ELETRÔNICA NA INDÚSTRIA METALÚRGICA E SIDERÚRGICA
+#F269 01 Nox Club - Automação de Processos e Controle de Produção__M68METALURGIASIDERURGIA.mp4
+#F270 02 Nox Club - Tecnologias de Fundição e Forjamento__M68METALURGIASIDERURGIA.mp4
+#F271 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M68METALURGIASIDERURGIA.mp4
+#F272 04 Nox Club - Inovações em Materiais e Processos Metalúrgicos__M68METALURGIASIDERURGIA.mp4
+
+M69 - ELETRÔNICA NA INDÚSTRIA DE PLÁSTICOS E POLÍMEROS
+#F273 01 Nox Club - Automação de Processos e Controle de Produção__M69PLASTICOSPOLIMEROS.mp4
+#F274 02 Nox Club - Tecnologias de Moldagem e Extrusão__M69PLASTICOSPOLIMEROS.mp4
+#F275 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M69PLASTICOSPOLIMEROS.mp4
+#F276 04 Nox Club - Inovações em Materiais e Aplicações Industriais__M69PLASTICOSPOLIMEROS.mp4
+
+M70 - ELETRÔNICA NA INDÚSTRIA DE EMBALAGENS E ACONDICIONAMENTO
+#F277 01 Nox Club - Automação de Linhas de Produção e Envase__M70EMBALAGENSACONDICIONAMENTO.mp4
+#F278 02 Nox Club - Tecnologias de Rotulagem e Embalagem__M70EMBALAGENSACONDICIONAMENTO.mp4
+#F279 03 Nox Club - Controle de Qualidade e Inspeção de Embalagens__M70EMBALAGENSACONDICIONAMENTO.mp4
+#F280 04 Nox Club - Inovações em Embalagens Sustentáveis e Tecnológicas__M70EMBALAGENSACONDICIONAMENTO.mp4
+
+M71 - ELETRÔNICA NA INDÚSTRIA DE COSMÉTICOS E PERFUMARIA
+#F281 01 Nox Club - Automação de Processos e Controle de Produção__M71COSMETICOSPERFUMARIA.mp4
+#F282 02 Nox Club - Tecnologias de Mistura e Dosagem__M71COSMETICOSPERFUMARIA.mp4
+#F283 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M71COSMETICOSPERFUMARIA.mp4
+#F284 04 Nox Club - Inovações em Formulação e Embalagem de Produtos__M71COSMETICOSPERFUMARIA.mp4
+
+M72 - ELETRÔNICA NA INDÚSTRIA DE FERTILIZANTES E AGROQUÍMICOS
+#F285 01 Nox Club - Automação de Processos e Controle de Produção__M72FERTILIZANTESAGROQUIMICOS.mp4
+#F286 02 Nox Club - Tecnologias de Mistura e Granulação__M72FERTILIZANTESAGROQUIMICOS.mp4
+#F287 03 Nox Club - Controle de Qualidade e Análise de Produtos__M72FERTILIZANTESAGROQUIMICOS.mp4
+#F288 04 Nox Club - Inovações em Formulação e Aplicação de Agroquímicos__M72FERTILIZANTESAGROQUIMICOS.mp4
+
+M73 - ELETRÔNICA NA INDÚSTRIA DE FIBRAS E TÊXTEIS TÉCNICOS
+#F289 01 Nox Club - Automação de Processos e Controle de Produção__M73FIBRAS_TEXTEISTECNICOS.mp4
+#F290 02 Nox Club - Tecnologias de Fiação e Tecelagem__M73FIBRAS_TEXTEISTECNICOS.mp4
+#F291 03 Nox Club - Controle de Qualidade e Inspeção de Materiais__M73FIBRAS_TEXTEISTECNICOS.mp4
+#F292 04 Nox Club - Inovações em Materiais e Aplicações Industriais__M73FIBRAS_TEXTEISTECNICOS.mp4
+
+M74 - ELETRÔNICA NA INDÚSTRIA DE COURO E CALÇADOS
+#F293 01 Nox Club - Automação de Processos e Controle de Produção__M74COUROCALCADOS.mp4
+#F294 02 Nox Club - Tecnologias de Corte e Costura__M74COUROCALCADOS.mp4
+#F295 03 Nox Club - Controle de Qualidade e Acabamento de Produtos__M74COUROCALCADOS.mp4
+#F296 04 Nox Club - Inovações em Design e Sustentabilidade na Indústria__M74COUROCALCADOS.mp4
+
+M75 - ELETRÔNICA NA INDÚSTRIA DO TABACO E DERIVADOS
+#F297 01 Nox Club - Automação de Processos e Controle de Produção__M75TABACODERIVADOS.mp4
+#F298 02 Nox Club - Tecnologias de Processamento e Fabricação__M75TABACODERIVADOS.mp4
+#F299 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M75TABACODERIVADOS.mp4
+#F300 04 Nox Club - Inovações em Produtos e Embalagens__M75TABACODERIVADOS.mp4
+
+M76 - ELETRÔNICA NA INDÚSTRIA DA BEBIDA E DESTILADOS
+#F301 01 Nox Club - Automação de Processos e Controle de Produção__M76BEBIDASDESTILADOS.mp4
+#F302 02 Nox Club - Tecnologias de Fermentação e Destilação__M76BEBIDASDESTILADOS.mp4
+#F303 03 Nox Club - Controle de Qualidade e Análise de Bebidas__M76BEBIDASDESTILADOS.mp4
+#F304 04 Nox Club - Inovações em Bebidas e Embalagens__M76BEBIDASDESTILADOS.mp4
+
+M77 - ELETRÔNICA NA INDÚSTRIA DE FÓRMULAS E SUPLEMENTOS
+#F305 01 Nox Club - Automação de Processos e Controle de Produção__M77FORMULASSUPLEMENTOS.mp4
+#F306 02 Nox Club - Tecnologias de Mistura e Encapsulamento__M77FORMULASSUPLEMENTOS.mp4
+#F307 03 Nox Club - Controle de Qualidade e Análise de Ingredientes__M77FORMULASSUPLEMENTOS.mp4
+#F308 04 Nox Club - Inovações em Formulações e Embalagens__M77FORMULASSUPLEMENTOS.mp4
+
+M78 - ELETRÔNICA NA INDÚSTRIA DE FERTILIZANTES E AGROQUÍMICOS
+#F309 01 Nox Club - Automação de Processos e Controle de Produção__M78FERTILIZANTESAGROQUIMICOS.mp4
+#F310 02 Nox Club - Tecnologias de Mistura e Granulação__M78FERTILIZANTESAGROQUIMICOS.mp4
+#F311 03 Nox Club - Controle de Qualidade e Análise de Produtos__M78FERTILIZANTESAGROQUIMICOS.mp4
+#F312 04 Nox Club - Inovações em Formulação e Aplicação de Agroquímicos__M78FERTILIZANTESAGROQUIMICOS.mp4
+
+M79 - ELETRÔNICA NA INDÚSTRIA DE FIBRAS E TÊXTEIS TÉCNICOS
+#F313 01 Nox Club - Automação de Processos e Controle de Produção__M79FIBRAS_TEXTEISTECNICOS.mp4
+#F314 02 Nox Club - Tecnologias de Fiação e Tecelagem__M79FIBRAS_TEXTEISTECNICOS.mp4
+#F315 03 Nox Club - Controle de Qualidade e Inspeção de Materiais__M79FIBRAS_TEXTEISTECNICOS.mp4
+#F316 04 Nox Club - Inovações em Materiais e Aplicações Industriais__M79FIBRAS_TEXTEISTECNICOS.mp4
+
+M80 - ELETRÔNICA NA INDÚSTRIA DE COURO E CALÇADOS
+#F317 01 Nox Club - Automação de Processos e Controle de Produção__M80COUROCALCADOS.mp4
+#F318 02 Nox Club - Tecnologias de Corte e Costura__M80COUROCALCADOS.mp4
+#F319 03 Nox Club - Controle de Qualidade e Acabamento de Produtos__M80COUROCALCADOS.mp4
+#F320 04 Nox Club - Inovações em Design e Sustentabilidade na Indústria__M80COUROCALCADOS.mp4
+
+M81 - ELETRÔNICA NA INDÚSTRIA DO TABACO E DERIVADOS
+#F321 01 Nox Club - Automação de Processos e Controle de Produção__M81TABACODERIVADOS.mp4
+#F322 02 Nox Club - Tecnologias de Processamento e Fabricação__M81TABACODERIVADOS.mp4
+#F323 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M81TABACODERIVADOS.mp4
+#F324 04 Nox Club - Inovações em Produtos e Embalagens__M81TABACODERIVADOS.mp4
+
+M82 - ELETRÔNICA NA INDÚSTRIA DA BEBIDA E DESTILADOS
+#F325 01 Nox Club - Automação de Processos e Controle de Produção__M82BEBIDASDESTILADOS.mp4
+#F326 02 Nox Club - Tecnologias de Fermentação e Destilação__M82BEBIDASDESTILADOS.mp4
+#F327 03 Nox Club - Controle de Qualidade e Análise de Bebidas__M82BEBIDASDESTILADOS.mp4
+#F328 04 Nox Club - Inovações em Bebidas e Embalagens__M82BEBIDASDESTILADOS.mp4
+
+M83 - ELETRÔNICA NA INDÚSTRIA DE FÓRMULAS E SUPLEMENTOS
+#F329 01 Nox Club - Automação de Processos e Controle de Produção__M83FORMULASSUPLEMENTOS.mp4
+#F330 02 Nox Club - Tecnologias de Mistura e Encapsulamento__M83FORMULASSUPLEMENTOS.mp4
+#F331 03 Nox Club - Controle de Qualidade e Análise de Ingredientes__M83FORMULASSUPLEMENTOS.mp4
+#F332 04 Nox Club - Inovações em Formulações e Embalagens__M83FORMULASSUPLEMENTOS.mp4
+
+M84 - ELETRÔNICA NA INDÚSTRIA DE FERTILIZANTES E AGROQUÍMICOS
+#F333 01 Nox Club - Automação de Processos e Controle de Produção__M84FERTILIZANTESAGROQUIMICOS.mp4
+#F334 02 Nox Club - Tecnologias de Mistura e Granulação__M84FERTILIZANTESAGROQUIMICOS.mp4
+#F335 03 Nox Club - Controle de Qualidade e Análise de Produtos__M84FERTILIZANTESAGROQUIMICOS.mp4
+#F336 04 Nox Club - Inovações em Formulação e Aplicação de Agroquímicos__M84FERTILIZANTESAGROQUIMICOS.mp4
+
+M85 - ELETRÔNICA NA INDÚSTRIA DE FIBRAS E TÊXTEIS TÉCNICOS
+#F337 01 Nox Club - Automação de Processos e Controle de Produção__M85FIBRAS_TEXTEISTECNICOS.mp4
+#F338 02 Nox Club - Tecnologias de Fiação e Tecelagem__M85FIBRAS_TEXTEISTECNICOS.mp4
+#F339 03 Nox Club - Controle de Qualidade e Inspeção de Materiais__M85FIBRAS_TEXTEISTECNICOS.mp4
+#F340 04 Nox Club - Inovações em Materiais e Aplicações Industriais__M85FIBRAS_TEXTEISTECNICOS.mp4
+
+M86 - ELETRÔNICA NA INDÚSTRIA DE COURO E CALÇADOS
+#F341 01 Nox Club - Automação de Processos e Controle de Produção__M86COUROCALCADOS.mp4
+#F342 02 Nox Club - Tecnologias de Corte e Costura__M86COUROCALCADOS.mp4
+#F343 03 Nox Club - Controle de Qualidade e Acabamento de Produtos__M86COUROCALCADOS.mp4
+#F344 04 Nox Club - Inovações em Design e Sustentabilidade na Indústria__M86COUROCALCADOS.mp4
+
+M87 - ELETRÔNICA NA INDÚSTRIA DO TABACO E DERIVADOS
+#F345 01 Nox Club - Automação de Processos e Controle de Produção__M87TABACODERIVADOS.mp4
+#F346 02 Nox Club - Tecnologias de Processamento e Fabricação__M87TABACODERIVADOS.mp4
+#F347 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M87TABACODERIVADOS.mp4
+#F348 04 Nox Club - Inovações em Produtos e Embalagens__M87TABACODERIVADOS.mp4
+
+M88 - ELETRÔNICA NA INDÚSTRIA DA BEBIDA E DESTILADOS
+#F349 01 Nox Club - Automação de Processos e Controle de Produção__M88BEBIDASDESTILADOS.mp4
+#F350 02 Nox Club - Tecnologias de Fermentação e Destilação__M88BEBIDASDESTILADOS.mp4
+#F351 03 Nox Club - Controle de Qualidade e Análise de Bebidas__M88BEBIDASDESTILADOS.mp4
+#F352 04 Nox Club - Inovações em Bebidas e Embalagens__M88BEBIDASDESTILADOS.mp4
+
+M89 - ELETRÔNICA NA INDÚSTRIA DE FÓRMULAS E SUPLEMENTOS
+#F353 01 Nox Club - Automação de Processos e Controle de Produção__M89FORMULASSUPLEMENTOS.mp4
+#F354 02 Nox Club - Tecnologias de Mistura e Encapsulamento__M89FORMULASSUPLEMENTOS.mp4
+#F355 03 Nox Club - Controle de Qualidade e Análise de Ingredientes__M89FORMULASSUPLEMENTOS.mp4
+#F356 04 Nox Club - Inovações em Formulações e Embalagens__M89FORMULASSUPLEMENTOS.mp4
+
+M90 - ELETRÔNICA NA INDÚSTRIA DE FERTILIZANTES E AGROQUÍMICOS
+#F357 01 Nox Club - Automação de Processos e Controle de Produção__M90FERTILIZANTESAGROQUIMICOS.mp4
+#F358 02 Nox Club - Tecnologias de Mistura e Granulação__M90FERTILIZANTESAGROQUIMICOS.mp4
+#F359 03 Nox Club - Controle de Qualidade e Análise de Produtos__M90FERTILIZANTESAGROQUIMICOS.mp4
+#F360 04 Nox Club - Inovações em Formulação e Aplicação de Agroquímicos__M90FERTILIZANTESAGROQUIMICOS.mp4
+
+M91 - ELETRÔNICA NA INDÚSTRIA DE FIBRAS E TÊXTEIS TÉCNICOS
+#F361 01 Nox Club - Automação de Processos e Controle de Produção__M91FIBRAS_TEXTEISTECNICOS.mp4
+#F362 02 Nox Club - Tecnologias de Fiação e Tecelagem__M91FIBRAS_TEXTEISTECNICOS.mp4
+#F363 03 Nox Club - Controle de Qualidade e Inspeção de Materiais__M91FIBRAS_TEXTEISTECNICOS.mp4
+#F364 04 Nox Club - Inovações em Materiais e Aplicações Industriais__M91FIBRAS_TEXTEISTECNICOS.mp4
+
+M92 - ELETRÔNICA NA INDÚSTRIA DE COURO E CALÇADOS
+#F365 01 Nox Club - Automação de Processos e Controle de Produção__M92COUROCALCADOS.mp4
+#F366 02 Nox Club - Tecnologias de Corte e Costura__M92COUROCALCADOS.mp4
+#F367 03 Nox Club - Controle de Qualidade e Acabamento de Produtos__M92COUROCALCADOS.mp4
+#F368 04 Nox Club - Inovações em Design e Sustentabilidade na Indústria__M92COUROCALCADOS.mp4
+
+M93 - ELETRÔNICA NA INDÚSTRIA DO TABACO E DERIVADOS
+#F369 01 Nox Club - Automação de Processos e Controle de Produção__M93TABACODERIVADOS.mp4
+#F370 02 Nox Club - Tecnologias de Processamento e Fabricação__M93TABACODERIVADOS.mp4
+#F371 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M93TABACODERIVADOS.mp4
+#F372 04 Nox Club - Inovações em Produtos e Embalagens__M93TABACODERIVADOS.mp4
+
+M94 - ELETRÔNICA NA INDÚSTRIA DA BEBIDA E DESTILADOS
+#F373 01 Nox Club - Automação de Processos e Controle de Produção__M94BEBIDASDESTILADOS.mp4
+#F374 02 Nox Club - Tecnologias de Fermentação e Destilação__M94BEBIDASDESTILADOS.mp4
+#F375 03 Nox Club - Controle de Qualidade e Análise de Bebidas__M94BEBIDASDESTILADOS.mp4
+#F376 04 Nox Club - Inovações em Bebidas e Embalagens__M94BEBIDASDESTILADOS.mp4
+
+M95 - ELETRÔNICA NA INDÚSTRIA DE FÓRMULAS E SUPLEMENTOS
+#F377 01 Nox Club - Automação de Processos e Controle de Produção__M95FORMULASSUPLEMENTOS.mp4
+#F378 02 Nox Club - Tecnologias de Mistura e Encapsulamento__M95FORMULASSUPLEMENTOS.mp4
+#F379 03 Nox Club - Controle de Qualidade e Análise de Ingredientes__M95FORMULASSUPLEMENTOS.mp4
+#F380 04 Nox Club - Inovações em Formulações e Embalagens__M95FORMULASSUPLEMENTOS.mp4
+
+M96 - ELETRÔNICA NA INDÚSTRIA DE FERTILIZANTES E AGROQUÍMICOS
+#F381 01 Nox Club - Automação de Processos e Controle de Produção__M96FERTILIZANTESAGROQUIMICOS.mp4
+#F382 02 Nox Club - Tecnologias de Mistura e Granulação__M96FERTILIZANTESAGROQUIMICOS.mp4
+#F383 03 Nox Club - Controle de Qualidade e Análise de Produtos__M96FERTILIZANTESAGROQUIMICOS.mp4
+#F384 04 Nox Club - Inovações em Formulação e Aplicação de Agroquímicos__M96FERTILIZANTESAGROQUIMICOS.mp4
+
+M97 - ELETRÔNICA NA INDÚSTRIA DE FIBRAS E TÊXTEIS TÉCNICOS
+#F385 01 Nox Club - Automação de Processos e Controle de Produção__M97FIBRAS_TEXTEISTECNICOS.mp4
+#F386 02 Nox Club - Tecnologias de Fiação e Tecelagem__M97FIBRAS_TEXTEISTECNICOS.mp4
+#F387 03 Nox Club - Controle de Qualidade e Inspeção de Materiais__M97FIBRAS_TEXTEISTECNICOS.mp4
+#F388 04 Nox Club - Inovações em Materiais e Aplicações Industriais__M97FIBRAS_TEXTEISTECNICOS.mp4
+
+M98 - ELETRÔNICA NA INDÚSTRIA DE COURO E CALÇADOS
+#F389 01 Nox Club - Automação de Processos e Controle de Produção__M98COUROCALCADOS.mp4
+#F390 02 Nox Club - Tecnologias de Corte e Costura__M98COUROCALCADOS.mp4
+#F391 03 Nox Club - Controle de Qualidade e Acabamento de Produtos__M98COUROCALCADOS.mp4
+#F392 04 Nox Club - Inovações em Design e Sustentabilidade na Indústria__M98COUROCALCADOS.mp4
+
+M99 - ELETRÔNICA NA INDÚSTRIA DO TABACO E DERIVADOS
+#F393 01 Nox Club - Automação de Processos e Controle de Produção__M99TABACODERIVADOS.mp4
+#F394 02 Nox Club - Tecnologias de Processamento e Fabricação__M99TABACODERIVADOS.mp4
+#F395 03 Nox Club - Controle de Qualidade e Inspeção de Produtos__M99TABACODERIVADOS.mp4
+#F396 04 Nox Club - Inovações em Produtos e Embalagens__M99TABACODERIVADOS.mp4
+
+M100 - ELETRÔNICA NA INDÚSTRIA DA BEBIDA E DESTILADOS
+#F397 01 Nox Club - Automação de Processos e Controle de Produção__M100BEBIDASDESTILADOS.mp4
+#F398 02 Nox Club - Tecnologias de Fermentação e Destilação__M100BEBIDASDESTILADOS.mp4
+#F399 03 Nox Club - Controle de Qualidade e Análise de Bebidas__M100BEBIDASDESTILADOS.mp4
+#F400 04 Nox Club - Inovações em Bebidas e Embalagens__M100BEBIDASDESTILADOS.mp4
